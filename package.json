@@ -3,6 +3,7 @@
   "private": true,
   "description": "Portfolio Template For Awesome Peoples",
   "version": "0.1.0",
+  "homepage": "https://github.com/venkatasravan/venkatasravan.github.io",  
   "author": "Chetan Verma <hello@chetanverma.com>",
   "dependencies": {
     "gatsby": "^2.26.1",
